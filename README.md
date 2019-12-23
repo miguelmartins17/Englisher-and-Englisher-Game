@@ -314,15 +314,8 @@ The first page I created was the instructions page and for that I used the funct
 
 ```
 
-## The Game / Quiz
 
-It is a game that is used to test the knowledge acquired through the application. It will have categories such as numbers, colors, months of the year, days of the week and body parts.<br />
-There will be a database that allows the game to take the question and the answer and show it to the player. <br />
-
-![Englisher](https://i.imgur.com/9EOJl2z.png)
-
-
-For the game we created the layout of the homepage for that I inserted the logo an image as background and we created two buttons one to start the game and another that will contain the instructions for the player.
+Then I used setMessage to insert the message into the pop-up window.
 
 
 ```ruby
