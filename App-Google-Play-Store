@@ -1,0 +1,67 @@
+# Upload Your First Android App on Play Store (Step-by-Step):
+
+![android-app-on-google-play-512](https://user-images.githubusercontent.com/27420533/72202676-38a10880-345a-11ea-8834-50e32c03f2f3.png)
+
+
+This post is for anyone thinking of putting an App or game on the Play Store.</br>
+So just follow all the steps to quickly get the App online and ready to be installed on the Play Store.
+
+## 1.Create Your Android App
+
+The first thing to do when you want to have your own application or game online is to create the app and have the application ready to be published.</br> 
+You should use the colors, themes, graphics and icons that you like the most and that match well with the application and its purpose.
+
+## 2.Make its Signed Apk
+
+To generate keystores for signing Android apps go to Android Studio (Build > Generate Signed Bundle/Apk).
+
+![KZW3K2vS4G](https://user-images.githubusercontent.com/27420533/72202703-99c8dc00-345a-11ea-8004-5e5bf93256f6.png)
+
+This screen will pop-up and you need to chose (APK) then click next.
+
+
+![rZKR1cgQFE](https://user-images.githubusercontent.com/27420533/72202730-c7158a00-345a-11ea-814f-198961f079ff.png)
+
+A debug keystore which is used to sign an Android App during development needs a specific alias and password combination as dictated
+by Google.
+So you need to give your project a path for your app a, password and an alias.
+
+
+## 3.Login to your Gmail Account and visit this link:
+https://play.google.com/apps/publish/
+
+![1SOjy5FNUy](https://user-images.githubusercontent.com/27420533/72202915-e0b7d100-345c-11ea-9ea3-4a9b59f4eecc.png)
+
+## 4.Create your developer Account in Google 
+
+![QSPJnkS7X2](https://user-images.githubusercontent.com/27420533/72202947-3d1af080-345d-11ea-943a-533b1998efa5.png)
+
+Note: You will be charged a one-time fee of $25.
+After you have been paid this amount you can start uploading your first App.
+
+## 5.Fields needed in App Listing:
+- Title
+- Short description
+- Full description
+- App Screenshots
+- Icon
+- Feature graphic
+- App Type
+- Category
+- Content Rating
+- Developer Email
+- Privacy Policy URL
+
+After filling all the data correctly the App will be saved as a draft until Google authorizes the exit of the application to the platform.
+
+
+
+
+
+
+
+
+
+
+
+
